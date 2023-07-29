@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.parent{
+  background-color: greenyellow;
+  width: 600px;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+.child{
+  background-color: burlywood;
+  padding: 20px;
+  margin: 20px;
+}
+
+.input{
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+}
