@@ -5,7 +5,7 @@ function Parent() {
   const [cartItems, setcartItems] = useState([
       {Id:1, Name:'Apple', Price:100, Qty:1},
       {Id :2, Name:'Orange', Price:200, Qty:1},
-      {Id :3, Name:'Banana', Price:300, Qty:1},    ]    
+      {Id :3, Name:'Banana', Price:300, Qty:1},]    
     );
 
   function  handleAddItemToCart(item){
@@ -28,5 +28,3 @@ function Parent() {
 }
 
 export default Parent;
-
-//{cartItems,onDeleteClicked
